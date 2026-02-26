@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "019bc68f-ea2b-79a4-a0a4-62e131a24abe",
+  "name": "drpisicologia",
   "main": "./src/worker/index.ts",
   "compatibility_date": "2025-06-17",
   "compatibility_flags": ["nodejs_compat"],
